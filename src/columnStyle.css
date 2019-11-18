@@ -1,0 +1,54 @@
+html{
+    background-color: #ECEEEE;
+}
+
+.ColumnContainer{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #ECEEEE;
+}
+
+
+.singleColumn{
+    /* background-color: white; */
+    width: calc(25% - 19px);
+}
+
+.name{
+    color: white;
+    text-align: center;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    margin: 12px 0px;
+    background-color: white;
+    padding: 14px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cardText{
+    flex-grow: 1;
+}
+
+.leftArrow{
+    /* float: left; */
+    font-size: 20px;
+    margin-left: 8px;
+    margin-right: 12px;
+}
+
+.rightArrow{
+    font-size: 20px;
+    margin-right: 8px;
+    margin-left: 12px;
+}
+
