@@ -2,7 +2,7 @@
 
 This simple Kanban board was built in just under 25 minutes as part of a video screen coding challenge.  Unfortunately for ethical reasons I cannot share the name of the company or the exact specifications, but the functionality is exactly as described and the styling is a pixel perfect match of the provided wireframes.
 
-For the exercise there are some hard coded values and some missing functionalities that could be added to make a more fully featured product.  I may return in the future to add things like creating / destroying / renaming columns, deleting cards, etc. 
+For the exercise there are some hard coded values and some missing functionalities that could be added to make a more fully featured product.  I may return in the future to add things like creating / destroying / renaming columns, deleting cards, etc.  However none of these desired features were included in the challenge specifications and as such were not included in my quick implementation.
 
 Currently though the only modification I have made since finishing the interview was adding the gh-pages package to publish a live example.  [View the demo here](http://www.natedonato.com/kanban-challenge/)
 
