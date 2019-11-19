@@ -4,7 +4,8 @@ This simple Kanban board was built in just under 25 minutes as part of a video s
 
 For the exercise there are some hard coded values and some missing functionalities that could be added to make a more fully featured product.  I may return in the future to add things like creating / destroying / renaming columns, deleting cards, etc. 
 
-Currently though the only modification I have made since finishing the interview was adding the gh-pages package to publish a live example.
+Currently though the only modification I have made since finishing the interview was adding the gh-pages package to publish a live example.  [View the demo here](http://www.natedonato.com/kanban-challenge/)
+
 
 ## Functionality
 There are four columns prepopulated with two cards each.  Columns each take 1/4 the full browser width minus consistent 25 pixel margins and gaps between columns.
