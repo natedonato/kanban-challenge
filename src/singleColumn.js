@@ -13,7 +13,7 @@ function Column(props){
                 </div>
             )}
 
-            <div onClick={()=>props.addCard(props.idx)}> +Add a card</div>
+            <div className="addCard" onClick={()=>props.addCard(props.idx)}> +Add a card</div>
         </div>
     );
 }
